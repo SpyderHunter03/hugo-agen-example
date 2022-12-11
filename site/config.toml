@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseURL = "localhost:1313"
+baseURL = "https://agen.tristangoetz.me"
 languageCode = "en-us"
 title = "Agen | Bootstrap Agency Template"
 theme = "agen"
